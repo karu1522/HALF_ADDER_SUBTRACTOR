@@ -67,10 +67,13 @@ Developed by:Karthic U
 RegisterNumber:212224040151
 
 **RTL Schematic**
+
 ![Screenshot 2024-11-26 213923](https://github.com/user-attachments/assets/8375660c-9c81-475c-9ee3-c4fb180dac89)
 
 **Output/TIMING Waveform**
-![Screenshot 2024-11-26 213855](https://github.com/user-attachments/assets/54932f3b-bc6e-4371-83d2-be11643ddeee)
+
+![image](https://github.com/user-attachments/assets/1687ae6f-1ace-48f9-a2aa-98d8a8903f94)
+
 
 **Result:**
 Half adder and Half subtracter is designed and the truth table is verified.
